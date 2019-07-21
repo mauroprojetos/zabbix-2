@@ -1,6 +1,6 @@
 # Fabricio Guimarães
 Repositório pessoal
-
+Integração com microsoft Teamns e Kaizala
 Scripts e templates desenvolvidos de acordo com as necessidades diárias encontradas no cotidiano.
 
 Para qualquer sugestão/correção/pedidos, basta comentar o que deseja.
